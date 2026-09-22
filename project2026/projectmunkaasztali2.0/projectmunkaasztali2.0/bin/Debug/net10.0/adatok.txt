@@ -1,0 +1,11 @@
+Grand Theft Auto IV;2008;Action, Open world;Very Positive;PC, PlayStation 3, Xbox 360
+Counter-Strike 2;2023;FPS, Competitive ;Very Positive;PC, Linux
+The Binding of Isaac;2011;Roguelike ;Very Positive;PC, macOS , Linux
+Left 4 Dead 2;2009;FPS, Co-op ;Overwhelmingly Positive;PC, macOS, Linux, Xbox 360 , Playstation 3
+Team Fortress 2;2007;FPS, Hero shooter;Very Positive;PC, macOS, Linux
+Hotline Miami;2012;Great Soundtrack ;Overwhelmingly Positive;PC, macOS, Linux, PlayStation 3, PlayStation 4, PlayStation 5, PS Vita, Xbox One, Xbox Series X/S, Nintendo Switch
+Half-Life 2;2004;FPS, akció, sci-fi;Overwhelmingly Positive;PC, macOS, Linux, Xbox, Xbox 360, PlayStation 3
+Half-Life 2: Episode One;2006; Sci-fi;Overwhelmingly Positive;PC, macOS, Linux, Xbox 360, PlayStation 3
+Half-Life 2: Episode Two;2007; sci-fi;Overwhelmingly Positive;PC, macOS, Linux, Xbox 360, PlayStation 3
+Outlast;2013;Survival horror;Overwhelmingly Positive;PC, macOS, Linux, PlayStation 4, Xbox One, Nintendo Switch
+ULTRAKILL;2020;Fast-Paced;Overwhelmingly Positive;PC
